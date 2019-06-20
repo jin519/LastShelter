@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!121 &12100000
+Flare:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Basic Fire Glow
+  m_FlareTexture: {fileID: 2800000, guid: c0a8eaca583607549838af6fcfdc1c74, type: 3}
+  m_TextureLayout: 2
+  m_Elements:
+  - m_ImageIndex: 0
+    m_Position: 0
+    m_Size: 10
+    m_Color: {r: 0.64705884, g: 0.4990754, b: 0.38538063, a: 1}
+    m_UseLightColor: 0
+    m_Rotate: 0
+    m_Zoom: 1
+    m_Fade: 1
+  - m_ImageIndex: 0
+    m_Position: 0
+    m_Size: 20
+    m_Color: {r: 0.33823532, g: 0.20321566, b: 0.09948097, a: 1}
+    m_UseLightColor: 0
+    m_Rotate: 0
+    m_Zoom: 1
+    m_Fade: 1
+  - m_ImageIndex: 0
+    m_Position: 0
+    m_Size: 40
+    m_Color: {r: 0.30882353, g: 0.13289438, b: 0, a: 1}
+    m_UseLightColor: 0
+    m_Rotate: 0
+    m_Zoom: 1
+    m_Fade: 1
+  m_UseFog: 1
